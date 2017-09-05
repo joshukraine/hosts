@@ -1,5 +1,6 @@
 # Custom host records are listed here.
 
 192.168.55.55 nodejs.dev
+127.0.0.1 lvh.me
 
 # End of custom host records.
